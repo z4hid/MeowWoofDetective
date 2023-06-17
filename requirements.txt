@@ -4,3 +4,4 @@ numpy
 Pillow
 opencv-python
 scikit-learn
+protobuf==3.20.0
